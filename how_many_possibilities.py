@@ -15,4 +15,3 @@ print(f"Correct prediction found at number: {correct_index}")
 
 
 
-# git filter-branch --force --index-filter "git rm --cached --ignore-unmatch README.md" --prune-empty --tag-name-filter cat -- --all
