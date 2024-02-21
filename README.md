@@ -13,7 +13,7 @@ This system aims to tackle the unique challenges associated with Persian license
 - **Real-Time Processing**: Capable of processing live video feeds in real-time.
 - **User-Friendly GUI**: Intuitive graphical user interface simplifies interactions with the system.
 ---
-![explain main gui](/parts.jpg)
+![explain main gui](/repo_images/parts.jpg)
 - The main view to show the input (video/camera)
 - Rectangle around the detected plate 
 - Image of the detected plate
@@ -22,7 +22,7 @@ This system aims to tackle the unique challenges associated with Persian license
 - Status of the plate which is (Allowed,Not Allowed, Non Registered)
 - The table of last 10 enteries which we can add a non registered plate or see the information of the owner
 ---
-![explain main flowchart](/flowchart.png)
+![explain main flowchart](/repo_images/flowchart.png)
 ## 📋 Prerequisites
 
 - Python 3.8+
@@ -111,8 +111,8 @@ The Persian License Plate Recognition (PLPR) system is a testament to the collab
 I extend my sincerest appreciation to everyone whose work has indirectly contributed to the Persian License Plate Recognition system. Your tireless efforts and willingness to share knowledge have not only made this project possible but also continue to inspire and propel the open-source movement forward.
 
 ---
-![explain main resident management](/people.jpg)
-![explain main enterance management](/ent.png)
+![explain main resident management](/repo_images/people.jpg)
+![explain main enterance management](/repo_images/ent.png)
 
 ---
 🌟 **A Heartfelt Note**:
