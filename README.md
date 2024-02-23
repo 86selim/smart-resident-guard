@@ -22,7 +22,11 @@ This system aims to tackle the unique challenges associated with Persian license
 - Status of the plate which is (Allowed,Not Allowed, Non Registered)
 - The table of last 10 enteries which we can add a non registered plate or see the information of the owner
 ---
-![explain main flowchart](/repo_images/flowchart.png)
+**[Read the detailed flow in wiki](https://github.com/mtkarimi/smart-resident-guard/wiki/Main-Flow)**
+
+![explain main flowchart](repo_images/detection_steps.png)
+
+
 ## 📋 Prerequisites
 
 - Python 3.8+
